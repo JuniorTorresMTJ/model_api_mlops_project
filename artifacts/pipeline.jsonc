@@ -1,0 +1,26 @@
+{
+    "steps": {
+        "expand_features": {
+            "PolynomialFeatures": {
+                "degree": 2
+            }
+        },
+        "qtransf": {
+            "QuantileTransformer": {
+                "output_distribution": "normal"
+            }
+        },
+        "poly_feature": {
+            "PolynomialFeatures": {
+                "degree": 2
+            }
+        },
+        "stdscaler": {
+            "StandardScaler": {
+                "with_mean": true,
+                "with_std": true
+            }
+        },
+        "model": "artifacts/model.pkl"
+    }
+}

@@ -1,0 +1,10 @@
+.logo-home{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.md-header {
+    background-color: #0F33FF;  /* Esta é a cor HotPink, você pode substituí-la pelo código de cor desejado */
+}

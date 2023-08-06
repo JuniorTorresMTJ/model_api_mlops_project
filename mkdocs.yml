@@ -1,0 +1,46 @@
+site_name: Model API MLOps Project
+repo_url: https://github.com/JuniorTorresMTJ/model_api_mlops_project
+repo_name: JuniorTorresMTJ/model_api_mlops_project
+edit_uri: /tree/main/docs
+
+theme:
+  icon:
+    repo: fontawesome/brands/github 
+  name: material
+  language: pt-BR
+  logo: assets/logo_b.png
+  favicon: assets/logo.svg
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to dark mode
+
+
+
+markdown_extensions:
+  - attr_list
+
+extra_css: 
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: en
+
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [api_mlops_project]
