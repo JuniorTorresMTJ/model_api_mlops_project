@@ -121,7 +121,7 @@ The provided configuration also contains some tasks defined with `taskipy`. You 
 ```
 -   Response:
 
-![data](assets\img\data.png)
+![data](https://github.com/JuniorTorresMTJ/mlops_shape_project/blob/main/docs/assets/img/data.png)
 
 If successful, you'll receive a JSON representation of the dataset. The structure will be a dictionary with columns as keys and their associated data as corresponding values.
 
