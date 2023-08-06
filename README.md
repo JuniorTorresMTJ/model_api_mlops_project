@@ -291,16 +291,16 @@ To automate and orchestrate our workflows, we will use [Airflow](https://airflow
 
  <p align="center">
 <a  href="https://www.linkedin.com/in/marivaldotorres/">
-    <img align="center"alt="Junior Torres | Linkedin" target="_blank" width="24px" src="assets\linkedin.png" />
+    <img align="center"alt="Junior Torres | Linkedin" target="_blank" width="24px" src="https://github.com/JuniorTorresMTJ/model_api_mlops_project/blob/main/docs/assets/linkedin.png" />
   </a>
 
   <a href="https://www.instagram.com/mlengineer.py/">
-    <img align="center" alt="Junior Torres | Instagram" target="_blank" width="24px" src="assets\instagram.png" />
+    <img align="center" alt="Junior Torres | Instagram" target="_blank" width="24px" src="https://github.com/JuniorTorresMTJ/model_api_mlops_project/blob/main/docs/assets/instagram.png" />
   </a>
   <a href="mailto:juniortorres.mtj@gmail.com">
-    <img align="center" alt="Junior Torres | Gmail" target="_blank" width="26px" src="assets\gmail.png" />
+    <img align="center" alt="Junior Torres | Gmail" target="_blank" width="26px" src="https://github.com/JuniorTorresMTJ/model_api_mlops_project/blob/main/docs/assets/gmail.png" />
   </a>
   <a href="https://github.com/JuniorTorresMTJ">
-    <img align="center" alt="Junior Torres | Github" target="_blank" width="26px" src="assets\github.svg" />
+    <img align="center" alt="Junior Torres | Github" target="_blank" width="26px" src="https://github.com/JuniorTorresMTJ/model_api_mlops_project/blob/main/docs/assets/github.svg" />
   </a>
  </p>
