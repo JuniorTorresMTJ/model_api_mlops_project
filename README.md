@@ -3,6 +3,14 @@
 [![Documentation Status](https://readthedocs.org/projects/notas-musicais/badge/?version=latest)](https://mlops-shape-project.readthedocs.io/en/latest/?badge=latest)
 [![PyPI version](https://badge.fury.io/py/mlops-shape-project.svg)](https://badge.fury.io/py/mlops-shape-project)
 
+## 💡 **Summary** 
+
+-   [🚀 Run the project](https://github.com/JuniorTorresMTJ/model_api_mlops_project/tree/main#-run-the-project)
+-   [📖 Documentation](https://github.com/JuniorTorresMTJ/model_api_mlops_project/tree/main#-documentation)
+-   [📑 Overview of Project Technologies](https://github.com/JuniorTorresMTJ/model_api_mlops_project/tree/main#-overview-of-project-technologies)
+-   [📝 Next Steps](https://github.com/JuniorTorresMTJ/model_api_mlops_project/tree/main#-next-steps)
+-   [💻 CONTACT ME](https://github.com/JuniorTorresMTJ/model_api_mlops_project/tree/main#-contact-me-)
+
 ## 🌐 **Overview** 
 ***
 
