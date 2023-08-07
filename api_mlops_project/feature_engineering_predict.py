@@ -1,6 +1,6 @@
 from typing import Optional, Union
 
-from mlops_shape_project.pipeline_utils import PipelineCreator
+from api_mlops_project.pipeline_utils import PipelineCreator
 
 
 class FeatureEngPredict:

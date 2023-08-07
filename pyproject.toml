@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "api-mlops-project"
-version = "0.3.2"
+version = "0.1.0"
 description = "This project aims to apply MLOps techniques to deploy a machine learning model through an API constructed with FastAPI."
 license = "MIT"
 authors = ["Junior Torres <galas.apps@gmail.com>"]
 readme = "README.md"
-packages = [{include = "mlops_shape_project"}]
+packages = [{include = "api_mlops_project"}]
 classifiers = [
     "Programming Language :: Python :: 3.8",
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
@@ -16,7 +16,7 @@ classifiers = [
 
 [tool.poetry.urls]
 "Documentation" = "https://mlops-shape-project.readthedocs.io/en/latest/"
-"Code" = "https://github.com/JuniorTorresMTJ/mlops_shape_project"
+"Code" = "https://github.com/JuniorTorresMTJ/model_api_mlops_project"
 
 [tool.poetry.dependencies]
 python = "^3.8.10"

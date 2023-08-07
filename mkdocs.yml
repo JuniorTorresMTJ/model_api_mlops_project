@@ -8,8 +8,8 @@ theme:
     repo: fontawesome/brands/github 
   name: material
   language: pt-BR
-  logo: assets/logo_b.png
-  favicon: assets/logo.svg
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: default

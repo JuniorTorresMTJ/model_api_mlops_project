@@ -7,11 +7,11 @@ import uvicorn
 from fastapi import FastAPI, File, HTTPException, Request, UploadFile
 from fastapi.responses import JSONResponse
 
-from mlops_shape_project.data_loader import DataLoader
-from mlops_shape_project.dataframe_checker import DataFrameChecker
-from mlops_shape_project.feature_engineering_predict import FeatureEngPredict
-from mlops_shape_project.pipeline_utils import PipelineCreator
-from mlops_shape_project.shape import DataInput
+from api_mlops_project.data_loader import DataLoader
+from api_mlops_project.dataframe_checker import DataFrameChecker
+from api_mlops_project.feature_engineering_predict import FeatureEngPredict
+from api_mlops_project.pipeline_utils import PipelineCreator
+from api_mlops_project.shape import DataInput
 
 app = FastAPI()
 

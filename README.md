@@ -61,8 +61,8 @@ Or you can use other installation methods detailed in the [official documentatio
 Assuming the project is hosted on a Git repository, clone it:
 
 ```bash
-git clone https://github.com/JuniorTorresMTJ/mlops_shape_project.git
-cd mlops-shape-project
+git clone https://github.com/JuniorTorresMTJ/model_api_mlops_project.git
+cd api_mlops_project
 ```
 
 ### 3️⃣ Install project dependencies:
@@ -86,13 +86,13 @@ The exact command to run the project depends on its structure. Typically, there'
 
 
 ```bash
-docker build -t mlops-shape-project:latest .
+docker build -t api-mlops-project:latest .
 ```
 
 ### 6️⃣ Build the Docker image:
 
 ```bash
-docker run -p 8000:8000 mlops-shape-project:latest
+docker run -p 8000:8000 api-mlops-project:latest
 ```
 API should now be running and accessible at http://localhost:8000.
 
@@ -167,7 +167,7 @@ If successful, you'll receive processed data (like predictions) as a JSON respon
 -   Example with `curl`:
 
 ```bash
-    `curl -X 'POST' -H "Content-Type: application/json" -d '{"column1": "value1", "column2": "value2", ...}' http://localhost:8000/predict`
+    `curl -X 'POST' -H "Content-Type: application/json" -d '{"vibration_x": 45.2947443182, "vibration_y": 91.0739650974, "vibration_z": 10.2298092532}' http://localhost:8000/predict`
 ```
 -   Response:
 
@@ -188,7 +188,7 @@ If successful, you'll receive a JSON response with the prediction status and the
 -   Example with `curl`:
 
 ```bash
-    curl -X 'POST' -H "Content-Type: application/json" -d '[{"column1": "value1_1", "column2": "value1_2", ...}, {"column1": "value2_1", "column2": "value2_2", ...}, ...]' http://localhost:8000/predict_batch
+    curl -X 'POST' -H "Content-Type: application/json" -d '[{"vibration_x": 44.9700689935, "vibration_y": 90.0999391234, "vibration_z": 10.2298092532},{"vibration_x": 45.2947443182, "vibration_y": 91.0739650974, "vibration_z": 10.2298092532},{"vibration_x": 45.9440949675, "vibration_y": 91.0739650974, "vibration_z": 10.2298092532}]' http://localhost:8000/predict_batch
 ```
 -   Response:
 
