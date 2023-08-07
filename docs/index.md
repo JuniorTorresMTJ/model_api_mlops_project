@@ -3,6 +3,14 @@
 [![Documentation Status](https://readthedocs.org/projects/notas-musicais/badge/?version=latest)](https://mlops-shape-project.readthedocs.io/en/latest/?badge=latest)
 [![PyPI version](https://badge.fury.io/py/mlops-shape-project.svg)](https://badge.fury.io/py/mlops-shape-project)
 
+## 💡 **Summary** 
+
+-   [🚀 Run the project](https://github.com/JuniorTorresMTJ/model_api_mlops_project/tree/main#-run-the-project)
+-   [📖 Documentation](https://github.com/JuniorTorresMTJ/model_api_mlops_project/tree/main#-documentation)
+-   [📑 Overview of Project Technologies](https://github.com/JuniorTorresMTJ/model_api_mlops_project/tree/main#-overview-of-project-technologies)
+-   [📝 Next Steps](https://github.com/JuniorTorresMTJ/model_api_mlops_project/tree/main#-next-steps)
+-   [💻 CONTACT ME](https://github.com/JuniorTorresMTJ/model_api_mlops_project/tree/main#-contact-me-)
+
 ## 🌐 **Overview** 
 ***
 
@@ -121,7 +129,7 @@ The provided configuration also contains some tasks defined with `taskipy`. You 
 ```
 -   Response:
 
-![data](assets\img\data.png)
+![data](https://github.com/JuniorTorresMTJ/mlops_shape_project/blob/main/docs/assets/img/data.png)
 
 If successful, you'll receive a JSON representation of the dataset. The structure will be a dictionary with columns as keys and their associated data as corresponding values.
 
@@ -291,17 +299,16 @@ To automate and orchestrate our workflows, we will use [Airflow](https://airflow
 
  <p align="center">
 <a  href="https://www.linkedin.com/in/marivaldotorres/">
-    <img align="center"alt="Junior Torres | Linkedin" target="_blank" width="24px" src="assets\linkedin.png" />
+    <img align="center"alt="Junior Torres | Linkedin" target="_blank" width="24px" src="https://github.com/JuniorTorresMTJ/model_api_mlops_project/blob/main/docs/assets/linkedin.png" />
   </a>
 
   <a href="https://www.instagram.com/mlengineer.py/">
-    <img align="center" alt="Junior Torres | Instagram" target="_blank" width="24px" src="assets\instagram.png" />
+    <img align="center" alt="Junior Torres | Instagram" target="_blank" width="24px" src="https://github.com/JuniorTorresMTJ/model_api_mlops_project/blob/main/docs/assets/instagram.png" />
   </a>
   <a href="mailto:juniortorres.mtj@gmail.com">
-    <img align="center" alt="Junior Torres | Gmail" target="_blank" width="26px" src="assets\gmail.png" />
+    <img align="center" alt="Junior Torres | Gmail" target="_blank" width="26px" src="https://github.com/JuniorTorresMTJ/model_api_mlops_project/blob/main/docs/assets/gmail.png" />
   </a>
   <a href="https://github.com/JuniorTorresMTJ">
-    <img align="center" alt="Junior Torres | Github" target="_blank" width="26px" src="assets\github.svg" />
+    <img align="center" alt="Junior Torres | Github" target="_blank" width="26px" src="https://github.com/JuniorTorresMTJ/model_api_mlops_project/blob/main/docs/assets/github.svg" />
   </a>
  </p>
-
