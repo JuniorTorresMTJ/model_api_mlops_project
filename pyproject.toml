@@ -15,7 +15,7 @@ classifiers = [
 ]
 
 [tool.poetry.urls]
-"Documentation" = "https://mlops-shape-project.readthedocs.io/en/latest/"
+"Documentation" = "https://model-api-mlops-project.readthedocs.io/en/latest/"
 "Code" = "https://github.com/JuniorTorresMTJ/model_api_mlops_project"
 
 [tool.poetry.dependencies]

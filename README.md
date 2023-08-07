@@ -1,6 +1,6 @@
 # **<p align="center" style="color: #DA1B5D;"><strong>Welcome to Model API MLOps Project</strong></p>**
 
-[![Documentation Status](https://readthedocs.org/projects/notas-musicais/badge/?version=latest)](https://mlops-shape-project.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/notas-musicais/badge/?version=latest)](https://model-api-mlops-project.readthedocs.io/en/latest/?badge=latest)
 [![PyPI version](https://badge.fury.io/py/mlops-shape-project.svg)](https://badge.fury.io/py/mlops-shape-project)
 
 ## 💡 **Summary** 
