@@ -204,7 +204,7 @@ For each of the endpoints, if there's an error, the API will return a clear mess
 
 The documentation of this project is an essential component for understanding its structure, functionalities, and usage guides. We strongly believe that comprehensive documentation can speed up the adoption, contribution, and debugging processes of the project. The documentation was crafted using [MkDocs](https://www.mkdocs.org/), a swift and straightforward tool for creating documentation websites from markdown files. It allows us to concentrate on the content while automating the process of converting Markdown into a structured and styled website.
 
-⚠️[Documentation Link](https://mlops-shape-project.readthedocs.io/en/latest/)⚠️
+⚠️[Documentation Link](https://model-api-mlops-project.readthedocs.io/en/latest/)⚠️
 
 
 ## 📑 **Overview of Project Technologies**
